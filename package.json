@@ -1,0 +1,23 @@
+{
+  "name": "expressnode",
+  "version": "0.0.0",
+  "description": "expressnode\r ===========",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "express": "4.8.2"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/bradhaas1/expressnode"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradhaas1/expressnode/issues"
+  },
+  "homepage": "https://github.com/bradhaas1/expressnode"
+}
